@@ -1,2 +1,2 @@
-# example_luasql_oracle
-examples for connecting to Oracle
+# Luasql oracle
+to get oci8.so you need to build: https://keplerproject.github.io/luasql/
